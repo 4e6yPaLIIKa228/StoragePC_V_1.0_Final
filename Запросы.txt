@@ -1,0 +1,55 @@
+CREATE TABLE "Conditions" (
+	"ID"	INTEGER NOT NULL UNIQUE,
+	"Condition"	TEXT NOT NULL,
+	PRIMARY KEY("ID" AUTOINCREMENT)
+);
+CREATE TABLE "NumberKab" (
+	"ID"	INTEGER NOT NULL UNIQUE,
+	"Number"	TEXT NOT NULL,
+	PRIMARY KEY("ID" AUTOINCREMENT)
+);
+CREATE TABLE "Types" (
+	"ID"	INTEGER NOT NULL UNIQUE,
+	"Type"	INTEGER,
+	PRIMARY KEY("ID" AUTOINCREMENT)
+);
+CREATE TABLE "Devices" (
+	"ID"	INTEGER NOT NULL UNIQUE,
+	"IDType"	INTEGER NOT NULL,
+	"IDKabuneta"	INTEGER NOT NULL,
+	"Title"	TEXT NOT NULL,
+	"Number"	TEXT NOT NULL,
+	"IDCondition"	INTEGER NOT NULL,
+	"StartWork"	TEXT,
+	PRIMARY KEY("ID" AUTOINCREMENT)
+	FOREIGN KEY("IDType") REFERENCES "Types"("ID"),
+	FOREIGN KEY("IDKabuneta") REFERENCES "NumberKab"("ID")
+	FOREIGN KEY("IDCondition") REFERENCES "Conditions"("ID")
+);
+
+
+
+
+-----------------------Запрос--------------------------
+SELECT Devices.ID, Types.Class, Devices.Title, Devices.Number, Conditions.Condition ,NumberKabs.NumKab ,Devices.StartWork 
+FROM Devices JOIN  Types
+ON Devices.IDType = Types.ID
+JOIN  Conditions
+ON Devices.IDCondition = Conditions.ID
+JOIN  NumberKabs
+ON Devices.IDKabuneta = NumberKabs.ID;
+
+SELECT Devices.ID,Types.Type,Devices.Title,Devices.Number,Conditions.Condition ,NumberKab.Number,Devices.StartWork FROM Devices JOIN  Types ON Devices.IDType = Types.ID JOIN  Conditions  ON Devices.IDCondition = Conditions.ID JOIN  NumberKab ON Devices.IDKabuneta = NumberKab.ID;
+
+
+
+SELECT Types.Type,Devices.Title,Devices.Number,Conditions.Condition ,NumberKab.Number,Devices.StartWork FROM Devices JOIN  Types ON Devices.IDType = Types.ID JOIN  Conditions  ON Devices.IDCondition = Conditions.ID JOIN  NumberKab ON Devices.IDKabuneta = NumberKab.ID;
+
+INSERT INTO Devices(IDType,IDKabuneta,Title,Number,IDCondition)
+VALUES('1','2','Монитор','3','1')
+
+
+INSERT INTO NumberKabs(NumKab)
+VALUES('305П');
+INSERT INTO Conditions(Condition)
+VALUES('Test');

@@ -1,0 +1,157 @@
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\YchetPer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\YchetPer_Content.g.cs
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\YchetPer_MarkupCompile.cache
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\YchetPer_MarkupCompile.lref
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\DeviceACC3.db
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\YchetPer.exe.config
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\YchetPer.exe
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\YchetPer.pdb
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\YchetPer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\YchetPer.g.resources
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\YchetPer.Properties.Resources.resources
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\YchetPer.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\YchetPer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\YchetPer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\YchetPer.exe
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\YchetPer.pdb
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\AddTechnic.g.cs
+C:\Users\Administrator\source\repos\YchetPer\obj\Debug\AddTechnic.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\DeviceACC3.db
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\YchetPer.exe.config
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\YchetPer.exe
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\YchetPer.pdb
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\EntityFramework.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\EntityFramework.xml
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\bin\Debug\System.Data.SQLite.xml
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.csprojAssemblyReference.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\AddTechnic.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\MainWindow.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\App.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer_Content.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer_MarkupCompile.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer_MarkupCompile.lref
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\AddTechnic.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\MainWindow.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.g.resources
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.Properties.Resources.resources
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.csproj.GenerateResource.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.csproj.CoreCompileInputs.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.csproj.CopyComplete
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.exe
+C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.pdb
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\DeviceACC3.db
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\YchetPer.exe.config
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\YchetPer.exe
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\YchetPer.pdb
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\AddTechnic.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer_Content.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer_MarkupCompile.cache
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer_MarkupCompile.lref
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\AddTechnic.baml
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.g.resources
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.Properties.Resources.resources
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.exe
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\YchetPer.pdb
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\Eddit.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.5_Lite-main\obj\Debug\Eddit.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\DeviceACC3.db
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\YchetPer.exe.config
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\YchetPer.exe
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\YchetPer.pdb
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\EntityFramework.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\EntityFramework.xml
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\bin\Debug\System.Data.SQLite.xml
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.csprojAssemblyReference.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\AddTechnic.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\Eddit.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\MainWindow.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\App.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer_Content.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer_MarkupCompile.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer_MarkupCompile.lref
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\AddTechnic.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\Eddit.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\MainWindow.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.g.resources
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.Properties.Resources.resources
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.csproj.GenerateResource.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.csproj.CoreCompileInputs.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.csproj.CopyComplete
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.exe
+C:\Users\студент.STD5\Desktop\Учет периферии\Павлов\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.pdb
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\YchetPer.exe.config
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\YchetPer.exe
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\YchetPer.pdb
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\AddTechnic.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\Eddit.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer_Content.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer_MarkupCompile.cache
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer_MarkupCompile.lref
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\AddTechnic.baml
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\Eddit.baml
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.g.resources
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.exe
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\YchetPer.pdb
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\EdditTitle.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\EdditTitle.baml
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\DeviceACC5.db
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\Authoriz.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\Authoriz.baml
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\Regist.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\Regist.baml
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\bin\Debug\DeviceACC6.db
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\Test.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\Test.baml
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\test2.g.cs
+C:\Users\Administrator\source\repos\StoragePC_V_0.6_Lite-main\obj\Debug\test2.baml

@@ -1,0 +1,33 @@
+﻿<Window x:Class="YchetPer.AddTechnic"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:YchetPer"
+        mc:Ignorable="d"
+        Title="Добавить" WindowState="Normal" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterOwner" MinHeight="420" MinWidth="520" Height="420" Width="520">
+    <Grid>
+        <Label Content="Тип" HorizontalAlignment="Left" Margin="76,47,0,0" VerticalAlignment="Top" Width="66" HorizontalContentAlignment="Right"/>
+        <Label Content="Название" HorizontalAlignment="Left" Margin="76,77,0,0" VerticalAlignment="Top" Width="66"/>
+        <Label Content="Кабинет" HorizontalAlignment="Left" Margin="66,107,0,0" VerticalAlignment="Top" Width="76" HorizontalContentAlignment="Right"/>
+        <Label Content="Номер" HorizontalAlignment="Left" Margin="45,137,0,0" VerticalAlignment="Top" Width="97" HorizontalContentAlignment="Right"/>
+        <Label Content="Состояние" HorizontalAlignment="Left" Margin="59,167,0,0" VerticalAlignment="Top" Width="83" HorizontalContentAlignment="Right"/>
+        <!--<Label Content="Должность" HorizontalAlignment="Left" Margin="100,197,0,0" VerticalAlignment="Top" Width="76" HorizontalContentAlignment="Right"/>-->
+        <Label Content="Начало работы" HorizontalAlignment="Left" Margin="38,227,0,0" VerticalAlignment="Top" Width="104" HorizontalContentAlignment="Right" />
+        <ComboBox x:Name="CbTitle" HorizontalAlignment="Left" Height="22" Margin="204,77,0,0" VerticalAlignment="Top" Width="219" VerticalContentAlignment="Center" />
+        <DatePicker x:Name="StartWork" HorizontalAlignment="Left" Margin="204,227,0,0" VerticalAlignment="Top" Width="219" Height="26"/>
+        <ComboBox x:Name="CbCondition" HorizontalAlignment="Left" Margin="204,167,0,0" VerticalAlignment="Top" Width="219" Height="22"/>
+        <Button x:Name="BtnAdd" Content="Добавить" HorizontalAlignment="Left" Height="38" Margin="381,330,0,0" VerticalAlignment="Top" Width="102" Click="BtnAdd_Click"/>
+        <ComboBox x:Name="CbClass" HorizontalAlignment="Left" Margin="204,47,0,0" VerticalAlignment="Top" Width="219" Height="22"/>
+        <ComboBox x:Name="CbNumKab" HorizontalAlignment="Left" Height="22" Margin="204,107,0,0"  VerticalAlignment="Top" Width="219" VerticalContentAlignment="Center" />
+        <TextBox x:Name="TbNumber" HorizontalAlignment="Left" Margin="204,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" Height="22" VerticalContentAlignment="Center"/>
+        <Button x:Name="BtnBack" Content="Назад" HorizontalAlignment="Left" Height="38" Margin="17,330,0,0" VerticalAlignment="Top" Width="102" Click="BtnBack_Click"/>
+        <Button x:Name="BtnAddKab" Content="+" HorizontalAlignment="Left" Margin="440,107,0,0" VerticalAlignment="Top" Width="25" Height="22" Click="BtnAddKab_Click"/>
+        <Button x:Name="BtnDellKab" Content="-" HorizontalAlignment="Left" Margin="163,107,0,0" VerticalAlignment="Top" Width="25" Height="22" Click="BtnDellKab_Click"/>
+        <Button x:Name="BtnAddTitl" Content="+" HorizontalAlignment="Left" Margin="440,77,0,0" VerticalAlignment="Top" Width="25" Height="22" Click="BtnAddTitl_Click" />
+        <Button x:Name="BtnDellTilt" Content="-" HorizontalAlignment="Left" Margin="163,77,0,0" VerticalAlignment="Top" Width="25" Height="22" Click="BtnDellTilt_Click" />
+        <!--<Label Content="Картинка" HorizontalAlignment="Left" Margin="38,277,0,0" VerticalAlignment="Top" Width="104" HorizontalContentAlignment="Right" />-->
+        <!--<Button x:Name="BtnAdd_Copy" Content="Добавить картинку" HorizontalAlignment="Left" Height="38" Margin="129,340,0,0" VerticalAlignment="Top" Width="120" Click="BtnAdd_Copy_Click" />-->
+        <!--<Image x:Name="photo" HorizontalAlignment="Left" Height="100" Margin="391,264,0,0" VerticalAlignment="Top" Width="100"/>-->
+    </Grid>
+</Window>

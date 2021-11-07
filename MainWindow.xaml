@@ -1,0 +1,67 @@
+﻿<Window x:Class="YchetPer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:YchetPer"
+        mc:Ignorable="d"
+    Title="Test3" Height="450" Width="888" WindowState="Normal" WindowStartupLocation="CenterScreen" MinHeight="450" MinWidth="888">
+    <Grid ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="119*"  />
+            <ColumnDefinition Width="70*"  />
+        </Grid.ColumnDefinitions>
+
+        <Grid ShowGridLines="True" Grid.Column="0">
+            <Grid.RowDefinitions >
+                <RowDefinition Height="40"/>
+                <RowDefinition/>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Учёт компьютерной техники "  Grid.Column="2" Grid.Row="0"  Grid.ColumnSpan="2"  FontSize="35"  FontFamily="ISOCPEUR" FontWeight="Bold" FontStyle="Italic" />
+            <DataGrid Grid.Column="0" RowHeight="30"  Grid.Row="1" Grid.RowSpan="1"   MouseDoubleClick="DGAllEmp_MouseDoubleClick"   x:Name="DGAllEmp" CanUserAddRows="False" ColumnWidth="*"  AutoGenerateColumns="False" MinColumnWidth="20"   >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Тип"   Binding="{Binding Class}"/>
+                    <DataGridTextColumn Header="Название" Binding="{Binding Title}"/>
+                    <DataGridTextColumn Header="Кабинет" Binding="{Binding NumKab}"/>
+                    <DataGridTextColumn Header="Номер" Binding="{Binding Number}"/>
+                    <DataGridTextColumn Header="Состояние" Binding="{Binding Condition}"/>
+                    <DataGridTextColumn Header="Начало работы" Binding="{Binding StartWork}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button x:Name="BtnAdd"  Grid.Column="0"  Grid.Row="3" Margin="10,10,0,10"   Content="Добавить" HorizontalAlignment="Left"  MinWidth="70" MaxHeight="55" Click="BtnAdd_Click" />
+            <Button x:Name="BtnUpd" Grid.Column="0"  Grid.Row="3" Margin="95,10,0,10"  Content="Обновить" HorizontalAlignment="Left"   MinWidth="70" MaxHeight="55" Click="BtnUpd_Click" />
+            <Button x:Name="BtnDel" Grid.Column="0"  Grid.Row="3" Margin="180,10,0,10" Content="Удалить"   HorizontalAlignment="Left"   MinWidth="70" MaxHeight="55"  Click="BtnDel_Click" />
+            <Button x:Name="BtnExcel" Grid.Column="0"  Grid.Row="3" Margin="265,10,0,10" Content="Экспорт в Excel" HorizontalAlignment="Left"  MinWidth="90" MaxHeight="55"  Click="BtnExcel_Click" />
+            <Button x:Name="BtnBack"  Grid.Column="0"  Grid.Row="3" Margin="370,10,0,10" Content="Сменить пользователя" HorizontalAlignment="Left" MaxHeight="55" Click="BtnBack_Click" />
+        </Grid>
+
+
+        <Grid ShowGridLines="True" Grid.Column="1">
+            <Grid.RowDefinitions >
+                <RowDefinition Height="40"/>
+                <RowDefinition/>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="Login"   Grid.Column="2" Grid.Row="0"  Grid.ColumnSpan="2"  FontSize="35"  FontFamily="ISOCPEUR" FontWeight="Bold" FontStyle="Italic" />
+            <Border Grid.Row="1"  BorderBrush="Black" BorderThickness="2" Margin="2"/>
+            <UniformGrid Columns="1" Grid.Row="1">
+                <TextBox x:Name="TbID" Padding="10,0"  Margin="10,10,0,-6" HorizontalAlignment="Left" VerticalAlignment="Top"  IsReadOnly="True"  />
+                <TextBlock Text="Тип:" Margin="10,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <ComboBox x:Name="CbClass" Margin="10,-10,0,0"  HorizontalAlignment="Center" VerticalAlignment="Center"  MinWidth="219"/>
+                <TextBlock Text="Название: " Margin="10,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <ComboBox x:Name="CbTitle" Margin="10,-5,0,0"  HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="219" VerticalContentAlignment="Center"/>
+                <TextBlock Text="Кабинет: " Margin="10,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <ComboBox x:Name="CbNumKab" Margin="10,-5,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="219" VerticalContentAlignment="Center"/>
+                <TextBlock Text="Номер: " Margin="10,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox x:Name="TbNumber" Margin="10,-5,0,0" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="219" MinHeight="22" VerticalContentAlignment="Center" IsReadOnly="True"/>
+                <TextBlock Text="Состояние: " Margin="10,-10,0,0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <ComboBox x:Name="CbCondition" Margin="10,-15,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="219"/>
+                <TextBlock Text="Начало работы: " Margin="10,-15,0,0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <DatePicker x:Name="StartWork" Margin="10,-25,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="219"/>
+                <Button x:Name="BtnEdd" Content="Изменить" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="80"  Margin="0,-10,0,0" Click="BtnEdd_Click"/>
+            </UniformGrid>
+            <Button x:Name="BtnExit" Grid.Column="2"  Grid.Row="3"  Margin="10" Content="Выйти" HorizontalAlignment="Right" MinWidth="70"  MaxHeight="55" Click="BtnExit_Click" />
+        </Grid>
+    </Grid>
+</Window>
